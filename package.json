@@ -6,16 +6,15 @@
   "directories": {
     "test": "test"
   },
-  "scripts": 
-  
-  {
-  
+  "scripts": {
     "test": "playwright test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.23.4"
+    "@playwright/test": "^1.23.4",
+    "allure-commandline": "^2.18.1",
+    "experimental-allure-playwright": "0.0.3"
   }
 }

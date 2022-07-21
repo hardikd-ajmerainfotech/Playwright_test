@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 21 16:23:22 IST 2022","Thu Jul 21 16:23:22 IST 2022","722","","src\WindowWidth.spec.mjs","width test","","","when window is narrow",""
+"passed","Thu Jul 21 16:23:20 IST 2022","Thu Jul 21 16:23:30 IST 2022","10118","","src\wikipedia-demo.spec.mjs","","","","test",""
+"passed","Thu Jul 21 16:23:20 IST 2022","Thu Jul 21 16:23:23 IST 2022","2439","","src\recipes-search.spec.mjs","","","","test",""
+"passed","Thu Jul 21 16:23:20 IST 2022","Thu Jul 21 16:23:27 IST 2022","6821","","src\redpen-demo.spec.mjs","","","","test",""
+"passed","Thu Jul 21 16:23:20 IST 2022","Thu Jul 21 16:23:22 IST 2022","1217","","src\WindowWidth.spec.mjs","width test","","","when window is wide",""
